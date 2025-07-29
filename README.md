@@ -31,9 +31,9 @@
 A full-stack online judge platform with real-time code execution and AI-based code review using Gemini API.  
 Built with Dockerized microservices and AWS for scalable code execution and file handling.
 
-#### 🔹 [Xpress Blogging App](https://github.com/sarvagya1201/blog_app)
-Blogging platform with secure JWT-based login, image uploads via Multer, and RESTful APIs.  
-Improved UI/UX using React Router, reduced latency with optimized Express routes.
+#### 🔹 [College Buddy](https://github.com/sarvagya1201/college-buddy)
+A full-stack web platform for students to explore courses, review professors, and share academic notes, built with a React frontend and a Node.js backend.
+Powered by Express, PostgreSQL, Prisma, and Supabase for robust performance and secure file handling.
 
 ---
 
